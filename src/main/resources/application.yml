@@ -6,6 +6,7 @@ spring:
     password: 1235!@#%
 
 
+
 #Port
 #server.port=8085
 
